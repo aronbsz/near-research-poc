@@ -1,0 +1,16 @@
+{
+  "name": "near-research-poc",
+  "version": "1.0.0",
+  "description": "Proof of concept script demonstrating transaction using NEAR protocol.",
+  "main": "app.js",
+  "dependencies": {
+    "near-api-js": "^0.36.2",
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
